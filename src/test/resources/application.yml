@@ -1,0 +1,4 @@
+spring.cloud.stream.bindings.orderCreateChannel.destination: new-order
+spring.cloud.stream.bindings.orderCreateChannel.group : aegon-ocr-service
+
+spring.boot.admin.client.enabled: false

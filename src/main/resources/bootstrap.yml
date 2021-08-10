@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: common-aegon-ocr-service
+  cloud:
+    config:
+      uri: *********************
